@@ -1,5 +1,5 @@
 # Pixel-Art-Maker
-Pixel Art Maker written in HTML, CSS & JavaScript. This is a single-page web app that allows users to draw pixel art on a customizable canvas! 
+Pixel Art Maker written in HTML, CSS & JavaScript. This is a single-page web app that allows users to draw pixel art on a customizable canvas! [Click here to test the app. Have Fun!](https://ceofvo.github.io/Pixel-Art-Maker/)
 
 In this app users should be able to:
 
